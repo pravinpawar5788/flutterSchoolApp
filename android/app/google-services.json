@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "888701024697",
+        "project_id": "schooling-erp",
+        "storage_bucket": "schooling-erp.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:888701024697:android:8169a539a7b948f92ade68",
+                "android_client_info": {
+                    "package_name": "com.edu.simplified.school"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAMyO4tWvxL8nFcIbXudqVVjzWT0EkTW1Y"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
